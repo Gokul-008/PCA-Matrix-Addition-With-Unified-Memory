@@ -20,6 +20,7 @@ Step 5 :
 Execute the program and run the terminal . Check the performance using nvprof.
 
 # Program:
+```
 GOKUL M
 Reg.NO: 212222230037
 ```
